@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "css:build": "npx tailwindcss -i ./src/style.css -o ./build/tailwind.css"
+   
   },
   "author": "",
   "license": "ISC",
